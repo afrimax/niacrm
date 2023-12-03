@@ -1,2 +1,2 @@
 # niacrm
-Member management system for non-profit organizations built in ColdFusion and optimized for Lucee.
+Member management system for non-profit organizations. Built in ColdFusion, utilizing the Framework One (FW/1) architecture and optimized for Lucee.
